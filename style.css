@@ -1,0 +1,23 @@
+.container2{
+    width: 500;
+    height: 281;
+}
+.Presentation{
+    width: 500;
+    height: 281;
+}
+#profile-picture 
+        {
+            width: 200px; 
+            height: 200px; 
+            border-radius: 115%; 
+            border: 2px solid #180d0d; 
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); 
+            margin: 0 auto 20px; 
+            display: block; 
+        }
+
+html{
+    background-color: antiquewhite
+    
+}
